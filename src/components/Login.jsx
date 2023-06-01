@@ -1,7 +1,6 @@
 import React from 'react'
 import loginImage from '../images/login-image.jpg'
 import bodyImage from '../images/body-image.jpg'
-// create components login
 function Login() {
     return (
         <div className='flex h-full' style={{
